@@ -1,4 +1,4 @@
-meal_choice('carrots', 'string beans')
+meal_choice('carrots', 'string beans', 'lentils')
 
 def meal_choice(veg1, veg2, protein = 'tofu')
   puts "What a nutritious meal!"
